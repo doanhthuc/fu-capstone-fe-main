@@ -1,0 +1,42 @@
+@@@ 1. Type of note
+// ? question
+// ! important
+// comment
+
+@@@ 2. "rsc" keyword(jetbrains)
+create template react file
+
+@@@ 3. Log color: https://www.npmjs.com/package/console-log-colors
+☀✳✡: loading
+☢: warning
+✅✔: nice
+✖❌: error
+☠: dead
+❤️💔: love is broken
+
+@@@ 4.  rooks hook
+https://rooks.vercel.app/docs/useDidMount
+import { useDidMount } from "rooks";
+---
+useMapState
+useDebounce
+useToggle
+useEventListenerRef
+useArrayState
+useMultiSelectableList
+useSelectableList
+---
+
+@@@ 5.
+
+
+
+
+// Complex hook
+------ More star ---- Complex usage ------
+https://github.com/alibaba/hooks
+https://ahooks.js.org/hooks/use-request/index
+yarn add ahooks
+import { useRequest } from 'ahooks';
+------ More star ---- Complex usage ------
+// Hook end

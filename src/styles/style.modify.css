@@ -1,0 +1,172 @@
+.add-little-margin1 {
+    margin-top: 48px;
+}
+
+.add-little-margin2 {
+    margin-top: 9px;
+    margin-bottom: 10px;
+}
+
+.add-little-fix1 {
+    margin-top: -30px;
+    margin-bottom: -20px;
+}
+
+.text-center-404 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.cur-pointer {
+    cursor: pointer;
+}
+
+.body-filter {
+    position: sticky;
+    background-color: #fff;
+    z-index: 3;
+    top: 30px;
+}
+
+.pro-item-quantity-extra {
+    padding: 16px 10px;
+}
+
+.content-stock {
+    margin-left: 10px;
+    margin-top: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    width: max-content;
+    padding: 5px 5px;
+}
+
+.reduct-little-size-font {
+    font-size: 13px;
+}
+
+/*Order Status*/
+.add-little-padding1 {
+    padding-right: 30px;
+}
+
+.add-little-margin2 {
+    margin-right: 0;
+}
+
+/**/
+
+.button-add-1 {
+    cursor: pointer;
+    padding: 5px 10px;
+    margin-top: 15px;
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 96%;
+}
+
+.button-add-1:hover {
+    background-color: gray;
+}
+
+.add-little-padding3x select {
+    padding: 3px 15px;
+}
+
+/*Discount Table*/
+.xcasxsadasdas {
+    font-family: "Amarante", Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 3.6em;
+    line-height: 1.7em;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/** page structure **/
+#wrapper {
+    display: block;
+    width: 90%;
+    background: #fff;
+    margin: 0 auto;
+    padding: 10px 17px;
+    -webkit-box-shadow: 10px 10px 30px -1px rgba(0, 0, 0, 0.35);
+}
+
+#keywords {
+    margin: 0 auto;
+    font-size: 1.2em;
+    margin-bottom: 15px;
+}
+
+#keywords thead {
+    cursor: pointer;
+    background: #c9dff0;
+}
+
+#keywords thead tr th {
+    font-weight: bold;
+    padding: 12px 30px;
+    padding-left: 42px;
+}
+
+#keywords thead tr th span {
+    padding-right: 20px;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+}
+
+#keywords thead tr th.headerSortUp,
+#keywords thead tr th.headerSortDown {
+    background: #acc8dd;
+}
+
+#keywords thead tr th.headerSortUp span {
+    background-image: url("https://i.imgur.com/SP99ZPJ.png");
+}
+
+#keywords thead tr th.headerSortDown span {
+    background-image: url("https://i.imgur.com/RkA9MBo.png");
+}
+
+#keywords tbody tr {
+    color: #555;
+}
+
+#keywords tbody tr td {
+    text-align: center;
+    padding: 15px 10px;
+}
+
+#keywords tbody tr td.lalign {
+    text-align: left;
+}
+
+/**/
+.add-little-buttonx {
+    font-size: 10px;
+    border: 1px solid blanchedalmond;
+    border-radius: 5px;
+    padding: 1px 2px;
+    width: 50px;
+}
+
+.add-little-buttonx:hover {
+    background-color: #c9dff0;
+}
+
+.add-little-buttonx1 {
+    padding: 1px;
+    font-size: 9.5px;
+}
+
+.sort-by-review {
+    font-size: 15px;
+    margin: 5px 0;
+}
+
+.star-clicked {
+    color: var(--color-star);
+}
