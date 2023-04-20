@@ -1,1 +1,1 @@
-export const HOST_URL = "capstonefudn.com"; 
+export const HOST_URL = "https://capstonefudn.com"; 
